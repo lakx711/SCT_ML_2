@@ -1,6 +1,6 @@
 # Customer Segmentation using K-Means Clustering
 
-This project uses the K-Means clustering algorithm to segment customers of a retail store based on their annual income and spending score. The goal is to identify distinct customer groups for targeted marketing strategies.
+This project uses the K-Means clustering algorithm to segment customers of a retail store based on their annual income and spending score. The goal is to identify distinct customer groups for targeted marketing strategies. #SkillCraftTechnology
 
 ## 📊 Project Overview
 
@@ -41,4 +41,5 @@ The script performs the following steps:
 
 The analysis identifies 5 distinct customer clusters, which are visualized in a scatter plot. This segmentation allows for a deeper understanding of the customer base, enabling the business to tailor its marketing efforts more effectively.
 
-![Customer Segments](https://i.imgur.com/example.png)  <!-- You can replace this with a screenshot of your cluster plot --> 
+## Credit
+Lakshit Soni
